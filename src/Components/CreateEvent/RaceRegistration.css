@@ -1,0 +1,7 @@
+.registration-info {
+    display: block;
+}
+
+.registration-info label {
+    display: inline-block;
+}
