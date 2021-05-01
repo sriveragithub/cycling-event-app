@@ -7,3 +7,8 @@ What is the MVP? - The minimum viable product for this app is to have a CRUD app
 What are the nice to haves? -  The nice to haves for this project would be styling for the website as a whole, persistent data, web-hosting on AWS, and login functionality for racers and organizers.
 
 When will the project be complete? - The project will be complete once all the MVP features have been implemented and basic styling has been applied.
+
+
+# Database Example
+
+Sketch of database available [here](https://dbdiagram.io/d/608b5f69b29a09603d12c72c)!
