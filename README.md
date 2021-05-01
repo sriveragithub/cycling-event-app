@@ -11,4 +11,4 @@ When will the project be complete? - The project will be complete once all the M
 
 # Database Example
 
-Sketch of database available [here](https://dbdiagram.io/d/608b5f69b29a09603d12c72c)!
+Sketch of database available [here](https://dbdiagram.io/d/608cdb84b29a09603d12ebce)!
